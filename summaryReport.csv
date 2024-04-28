@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Get all Users,7746,37,24,738,23.57,0.000%,25.82069,48.72,3.23,1932.2
+Create User,7746,309,282,748,30.36,0.000%,25.85568,22.67,5.88,897.9
+TOTAL,15492,173,24,748,138.32,0.000%,51.58377,71.28,9.09,1415.1

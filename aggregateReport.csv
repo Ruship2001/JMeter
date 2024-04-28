@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Get all Users,7746,37,34,47,54,130,24,738,0.000%,25.82069,48.72,3.23
+Create User,7746,309,302,323,351,465,282,748,0.000%,25.85568,22.67,5.88
+TOTAL,15492,173,283,312,324,415,24,748,0.000%,51.58377,71.28,9.09
